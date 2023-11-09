@@ -170,7 +170,7 @@ const Container = ({ children }) => {
         </div>
       </aside>
       {/* main content */}
-      <div className="lg:p-4 rounded-lg m-[38px]">
+      <div className="lg:p-4 rounded-lg my-[38px] mr-9 lg:m-[38px]">
         <div className="p-4 bg-[#EEF0F2] border-gray-200 w-full h-full rounded-xl">
           {children}
         </div>

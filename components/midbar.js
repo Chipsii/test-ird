@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Socials from "./socials";
+import Footer from "./footer";
 
 const Midbar = () => {
   return (
@@ -98,6 +99,7 @@ const Midbar = () => {
             </div>
           </div>
         </div>
+      <Footer />
       </div>
     </div>
   );

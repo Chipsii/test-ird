@@ -16,7 +16,7 @@ const Index = () => {
       <Midbar/>
       <RightBar />
       </div>
-      <Footer />
+      
       <BottomBar />
       
     </Container>
